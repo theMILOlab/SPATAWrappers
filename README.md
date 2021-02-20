@@ -1,4 +1,4 @@
 # SPATAWrappers
 Additional Functions for the SPATA Toolbox
 
-Here, additonal functions and data are avaiable to run defined tasks in SPATA
+Here, we provide additonal functions and data to run defined tasks in SPATA. Explanations are given in reach .R file. Download and source the skript for use. 
